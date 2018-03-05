@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Feed</string>
+    <string name="refresh">Refresh Feed</string>
+</resources>
